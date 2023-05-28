@@ -4,8 +4,9 @@ Just tell us the name already
 
 These are our current best guesses:
   mingbai
-  
+  /n
   mingcai
+  n/
   mingcui
   mingdai
   mingfai
